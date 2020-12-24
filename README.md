@@ -1,5 +1,7 @@
 ### 👋👾
 
+better [here](https://anticapitalismbookclub.com) or [there](https://eggybits.com)
+
 ## Current technology
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
