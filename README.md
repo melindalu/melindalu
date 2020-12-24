@@ -18,6 +18,7 @@ better [here](https://anticapitalismbookclub.com) or [there](https://eggybits.co
 ![Bazel](https://img.shields.io/badge/-Bazel-A8E00F?style=flat)
 ![gRPC](https://img.shields.io/badge/-gRPC-282C4C?style=flat)
 ![Protobuf](https://img.shields.io/badge/-Protobuf-4D9FE7?style=flat)
+![Envoy](https://img.shields.io/badge/-Envoy-FF00BF?style=flat&logo=envoy&logoColor=white)
 ![Contour](https://img.shields.io/badge/-Contour-FF0000?style=flat)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![JAX](https://img.shields.io/badge/-JAX-FF0000?style=flat)
