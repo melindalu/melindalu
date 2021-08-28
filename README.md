@@ -1,6 +1,6 @@
 ### 👋👾
 
-better [here](https://anticapitalismbookclub.com) or [there](https://eggybits.com)
+better [here](https://blog.melindalu.com), [here](https://anticapitalismbookclub.com), or [here](https://eggybits.com)
 
 ## Current technology
 
