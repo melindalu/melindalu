@@ -4,6 +4,8 @@ better [here](https://blog.melindalu.com), [here](https://anticapitalismbookclub
 
 ## Current technology
 
+![JAX](https://img.shields.io/badge/-JAX-FF0000?style=flat)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -20,8 +22,6 @@ better [here](https://blog.melindalu.com), [here](https://anticapitalismbookclub
 ![Protobuf](https://img.shields.io/badge/-Protobuf-4D9FE7?style=flat)
 ![Envoy](https://img.shields.io/badge/-Envoy-FF00BF?style=flat&logo=envoy&logoColor=white)
 ![Contour](https://img.shields.io/badge/-Contour-FF0000?style=flat)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/-JAX-FF0000?style=flat)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
